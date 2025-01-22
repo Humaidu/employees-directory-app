@@ -3,18 +3,22 @@ A Flask-based employee directory where employees can input their details (name, 
 
 
 ## Features
+```
 ✔️ Web-based form for employee input
 ✔️ Stores images in AWS S3
 ✔️ Stores employee details in AWS DynamoDB
 ✔️ Displays employee profiles dynamically
 ✔️ Deployable to AWS EC2 with user data
+```
 
 ## Technologies Used
+```
 Python Flask (Backend)
 AWS S3 (Image Storage)
 AWS DynamoDB (Database)
 HTML & CSS (Frontend)
 Boto3 (AWS SDK for Python)
+```
 
 ## Setup & Installation
 1. Clone the Repository
